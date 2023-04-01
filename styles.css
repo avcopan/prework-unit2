@@ -1,0 +1,14 @@
+h1 {
+    color: teal;
+    font-weight: normal;
+    padding: 4px;
+    margin: 2px auto;
+    width: 400px;
+    border: 22px dotted lime;
+}
+
+h2 {
+    color: green;
+    text-decoration: underline;
+    font-weight: normal;
+}
